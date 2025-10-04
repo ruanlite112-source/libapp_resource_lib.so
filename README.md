@@ -1,0 +1,1 @@
+# libapp_resource_lib.so
